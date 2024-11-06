@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(249, 216, 179);
+}
+
+#contenitore-immagini {
+    display: flex;            
+    justify-content: center;  
+    gap: 20px;                 
+}
+
+#frank, #frank-internet {
+    max-width: 20%;           
+    height: auto;
+}
+
+p{
+    text-align: center;
+}
+
+a {
+    display: block;          
+    text-align: center;      
+    margin: 2px auto;       
+    width: fit-content;      
+}
+
